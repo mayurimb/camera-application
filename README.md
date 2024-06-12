@@ -8,3 +8,5 @@ Features:
 -The User can zoom in and out of images which is not possible on traditional desktop camera.
 -Applying filters to the images on camera.
 -Gallery to download or delete the images.
+
+[Demo video](https://drive.google.com/file/d/1Z6EJvCkC2yuRXONVaqUqQx9R1ESHBeSQ/view?usp=drive_link)
